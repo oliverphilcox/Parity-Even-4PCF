@@ -9,4 +9,4 @@ In the ```data/``` directory, we provide:
 
 All data are computed using the [encore](https://github.com/oliverphilcox/encore) code of [Philcox et al. 2021a](https://arxiv.org/abs/2105.08722). The main analysis is done in the [Jupyter Notebook](https://github.com/oliverphilcox/Parity-Even-4PCF/blob/main/BOSS%20Even-Parity%204PCFs.ipynb).
 
-For questions, contact [Oliver Philcox](mailto: ohep2@cantab.ac.uk).
+For questions, contact [Oliver Philcox](mailto:ohep2@cantab.ac.uk).
